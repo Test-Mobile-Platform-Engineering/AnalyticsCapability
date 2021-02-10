@@ -1,0 +1,2 @@
+# AnalyticsCapability
+Send analytics events
